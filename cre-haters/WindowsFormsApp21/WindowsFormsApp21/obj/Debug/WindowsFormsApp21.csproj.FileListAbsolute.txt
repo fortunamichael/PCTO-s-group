@@ -1,0 +1,12 @@
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csprojAssemblyReference.cache
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form1.resources
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form2.resources
+C:\Users\Utente\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.amministrazione.resources
